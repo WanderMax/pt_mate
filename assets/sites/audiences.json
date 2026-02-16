@@ -175,7 +175,7 @@
           }
         },
         "collection": {
-          "selector": "table.torrentname > tbody > tr > td:nth-child(5) > img.bookmark",
+          "selector": "table.torrentname > tbody > tr > td:nth-child(2) > img.bookmark",
           "attribute": "src"
         },
         "isTop": {
